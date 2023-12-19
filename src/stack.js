@@ -20,7 +20,6 @@ class Stack {
   }
 
   pop() {
-
     return this.stack.pop()
   }
 
